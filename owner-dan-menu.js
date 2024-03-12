@@ -1,11 +1,11 @@
 const fs = require('fs')
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namabot = "Bot Budianto Store"
+global.namaowner = "Budianto"
 global.footer_text = "© " + namabot
-global.pp_bot = fs.readFileSync("./image/foto.jpg")
-global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['628577776666','628577775555']
+global.pp_bot = fs.readFileSync("./image/lol1.jpg")
+global.qris = fs.readFileSync("./image/donasi1.jpg")
+global.owner = ['6282216565720','6282216565720']
 global.pairingNumber = ""
 global.sessionName = 'session'
 global.prefa = ['-_-']
